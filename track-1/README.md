@@ -1,6 +1,6 @@
 # Track 1:  Point of Service Data Submission to Central Repository
 
-This track will demonstrate how a Point of Service (POS) application can submit health data to a central repository implemented with a HAPI FHIR Server. The track uses the draft NHDR FHIR Implementation Guide (IG) defining the required profiles and value sets for core clinical data exchange (Patient, Encounter, Mediation, Observation etc.).
+This track will demonstrate how a Point of Service (POS) application can submit health data to a central repository implemented with a HAPI FHIR Server. The track uses the draft NHDR FHIR Implementation Guide (IG) defining the required profiles and value sets for core clinical data exchange (Patient, Encounter, Medication, Observation etc.).
 
 ## Track Goals
 * Successfully submit FHIR resources to a central server.
